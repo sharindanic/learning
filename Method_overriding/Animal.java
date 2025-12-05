@@ -1,5 +1,5 @@
 public class Animal {
-  void speak(){
+  void wiggle(){
     System.out.println("U have ability to talk!!!!");
   }
 }
