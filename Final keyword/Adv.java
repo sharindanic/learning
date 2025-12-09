@@ -1,0 +1,3 @@
+class Adv extends Cal{
+  
+}
