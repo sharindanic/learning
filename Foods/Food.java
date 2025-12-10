@@ -9,6 +9,11 @@ public class Main{
     Foods.add("Ravioli");
     Foods.add("Kebab");
 
+    Foods.set(0,"Lasagna");
+    Foods.add("Pizza");
+    Foods.remove(2);
+    //Foods.clear();
+
     for(int i=0;i<Foods.size();i++){
       System.out.println(Foods.get(i));
     }
