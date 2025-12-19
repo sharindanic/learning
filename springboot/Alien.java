@@ -1,4 +1,4 @@
-package com.example.demo;
+*/ package com.example.demo;
 
 import org.springframework.stereotype.Component;
 
@@ -8,3 +8,4 @@ public class Alien {
         System.out.println("Working on my first SpringBoot Project");
     }
 }
+/*
