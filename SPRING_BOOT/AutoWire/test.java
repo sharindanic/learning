@@ -1,4 +1,5 @@
 @getMapping("/products/{proId}")
 public static void getProductById(){
-  return proId
+  System.out.println();
+  return ProId
 }
