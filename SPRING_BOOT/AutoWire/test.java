@@ -1,4 +1,4 @@
 @getMapping("/products/{proId}")
-public static void main(){
+public static void getProductById(){
   return proId
 }
