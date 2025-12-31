@@ -1,1 +1,4 @@
-public static void main
+@getMapping("/products")
+public static void main(){
+  return proId
+}
