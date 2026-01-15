@@ -1,5 +1,5 @@
 interface Car{
-    String Car="Toyota";
+    String Car="Toyota"; //static and final 
     int model=101;
     void manu();
     void sub();
