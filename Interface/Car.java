@@ -3,6 +3,7 @@ interface Car{
     int model=101;
     void manu();
     void sub();
+    void run();
 
 }
 class B implements Car {
